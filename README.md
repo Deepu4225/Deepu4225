@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Deepu4225
 - 👀 I’m interested in being data engineer
 -  🌱 I’m currently learning python and how to reposit the code to git
 - 💞️ I’m looking to collaborate on ...
